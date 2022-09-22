@@ -9,6 +9,7 @@ setGradient = () => {
 }
 
 
+
 _linearGradient = () => {
 	return `linear-gradient(to right, ${color1.value}, ${color2.value})`;
 }
