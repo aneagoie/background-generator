@@ -6,7 +6,7 @@ body {
     letter-spacing: .5em;
     top: 15%;
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
-}
+} 
 
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;

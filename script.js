@@ -1,4 +1,4 @@
-//Newer modern way to write the code (this new syntax will be explored in Advanced JS section)
+//Newer  modern way to write the code (this new syntax will be explored in Advanced JS section)
 const css = document.querySelector('h3');
 const [color1, color2] = document.querySelectorAll('.color')
 const body = document.querySelector('#gradient');
